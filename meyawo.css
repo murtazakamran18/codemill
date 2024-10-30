@@ -12305,7 +12305,7 @@ body {
 /* Light Creamy Theme (Dark Mode) */
 [data-theme="dark"] {
   --background-color: whitesmoke; /* Light creamy background color */
-  --text-color: white; /* Text color for light creamy background */
+  --text-color: black; /* Text color for light creamy background */
 }
 
 /* Applying Theme Colors */
